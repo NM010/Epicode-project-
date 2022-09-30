@@ -1,0 +1,23 @@
+<CD seriale= "H34L2T" disc-length="12.50">
+    <casadisc>Sony</casadisc>
+    <artista>
+    <nome>Luciano</nome>
+    <cognome>Ligabue</cognome> 
+    </artista>
+    <brani>     
+        <nbrani>3 </nbrani> 
+        <brano1> 
+            <titolo>Balliamo sul mondo</titolo>
+            <durata>5,20</durata>              
+        </brano1>
+        <brano2> 
+            <titolo>Bar Mario</titolo>
+            <durata>3,20</durata>              
+        </brano2>
+        <brano3> 
+            <titolo>Piccola stella senza cielo</titolo>
+            <durata>4,10</durata>              
+        </brano3>
+    </brani>
+    <anno>1990</anno>
+</CD>

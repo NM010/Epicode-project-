@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro>
+    <capitoli>Nove</capitoli>
+    <autore> 
+        <nome>Ligabue</nome>
+        <indirizzo>Via Roma 15 Correggio</indirizzo>
+    </autore>
+</libro>
+

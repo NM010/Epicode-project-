@@ -1,0 +1,31 @@
+<phonebook>
+    <company>
+        <cname>Microsoft</cname>
+        <exchange>09-999000</exchange>
+        <president> 
+            <name> Bill </name>
+            <surname> Gates </surname>
+           <extension>09-9990011</extension>
+        </president>
+        <secretary>   
+            <name> Katharine </name>
+            <surname> Finch </surname>
+            <extension>09-9990012</extension>
+        </secretary>
+    </company>
+
+    <company>
+            <cname>Oracle</cname>
+        <exchange>09-888000</exchange>
+        <president> 
+            <name> Larry </name>
+            <surname> Ellison </surname>
+            <extension>09-8880011</extension>
+        </president>
+        <secretary>   
+            <name> Helen </name>
+            <surname> Calhoun </surname>
+            <extension>09-8880012</extension>
+    </company>
+
+</phonebook>

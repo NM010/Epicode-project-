@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes'?>
+<lettera>
+    <mittente>
+        <nome>Mario</nome>
+        <cognome>Rossi</cognome>
+        <indirizzo> 
+            <Via>Roma</Via>
+            <ncivico>33</ncivico>
+            <citta>Bologna</citta>
+            <cap>40121</cap>
+            <stato>Italia</stato>
+        </indirizzo>
+    </mittente>
+
+    <destinatario>
+        <nome>Steven</nome>
+        <cognome>Zhang</cognome>
+        <indirizzo>
+            <Via>Sforza</Via>
+            <ncivico>12</ncivico>
+            <citta>Milano</citta>
+            <cap>20019</cap>
+            <stato>Italia</stato>
+        </indirizzo>
+    </destinatario>
+
+    <data>  
+        <giorno>28</giorno>
+        <mese>settembre</mese>
+        <anno>2022</anno>
+    </data>
+    <testo>
+        <corpo>Forza Inter</corpo>
+        <firma>Mario Rossi</firma>
+    </testo>
+</lettera>
