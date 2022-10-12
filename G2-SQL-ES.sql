@@ -1,0 +1,17 @@
+#es1
+
+SELECT NomeCantante
+FROM CANTANTE
+JOIN ESECUZIONE ON  CANTANTE.CodiceReg=ESECUZIONE.CodiceReg                    
+JOIN AUTORE ON ESECUZIONE.TitoloCanz=AUTORE.TitoloCanzone    
+WHERE Nome=NomeCantante AND Nome LIKE 'D%'; 
+
+
+#es2
+SELECT TitoloAlbum
+FROM DISCO 
+JOIN CONTIENE ON DISCO.NroSerie = CONTIENE.NroSerieDisco
+JOIN ESECUZIONE ON CONTIENE.CodiceReg = ESECUZIONE.CodiceReg
+WHERE ESECUZIONE.Anno IS NULL;
+
+
